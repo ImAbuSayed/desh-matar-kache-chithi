@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/desh-matar-kache-chithi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Desh Matar Kache Chithi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/desh-matar-kache-chithi/) |
+| **Get License** | [Obtain a Music License for Desh Matar Kache Chithi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/desh-matar-kache-chithi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচিন দেশে ধুলোর মাঝে এঁকেছি এক ছবি
+> অন্ধকারে খুঁজছি তোমায় আমি একাকী কবি
+> তুমি আমার প্রথম পাওয়া, তুমি আমার আলো
+> তোমায় ছাড়া এই জীবনে সবই লাগে কালো
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

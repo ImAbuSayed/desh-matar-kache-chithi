@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Desh Matar Kache Chithi
+
+This log tracks the cryptographic history and versioning for the song **Desh Matar Kache Chithi** (desh-matar-kache-chithi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T09:07:03.254037 | `v1` | `2119c9b15fa949daa2741132bf6b313501183c6b2b6635af4cef629499525817` | `7f7b6c5351d26c74f5a1f0da873b9041ec860982794635d67128f7d7f57e35b8` | `2026-05-12_desh-matar-kache-chithi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
